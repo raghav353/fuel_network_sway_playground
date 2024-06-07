@@ -42,6 +42,7 @@ Testnet Faucet: https://faucet-testnet.fuel.network/
 
 
 
+
 Sway Playground: https://www.sway-playground.org/
 
 
