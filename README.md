@@ -34,6 +34,7 @@ Fuel Wallet: https://chromewebstore.google.com/detail/fuel-wallet/dldjpboieedgcm
 
 
 
+
 Testnet Faucet: https://faucet-testnet.fuel.network/
 
 
