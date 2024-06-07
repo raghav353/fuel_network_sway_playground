@@ -50,6 +50,7 @@ Sway Playground: https://www.sway-playground.org/
 
 
 
+
 <img width="932" alt="image" src="https://github.com/raghav353/fuel_network_sway_playground/assets/151916837/6e50debb-8a4e-415b-9cb4-bc0a4d725a99">
 
 
